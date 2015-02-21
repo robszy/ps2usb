@@ -1,5 +1,5 @@
 # ps2usb
-====================================================================
+
 PS2 - USB translator for mouse and keyboard on ATMEGA-328p atmel uP
 
 Source code is available here: <http://github.com/robszy/ps2usb>
@@ -8,7 +8,7 @@ Source code is available here: <http://github.com/robszy/ps2usb>
 Features
 ----------
 
-* Full featured keyboard with system keys and 3 mouse mouse supported
+* Full featured keyboard with system keys and 3 button mouse supported
 * Suspend and wakeup from system keys on keyboard
 * Debug key errors capability
 * Nice diode effect in sleep mode
