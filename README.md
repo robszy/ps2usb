@@ -2,6 +2,8 @@
 
 PS2 - USB translator for mouse and keyboard on ATMEGA-328p atmel uP
 
+Aim of this project is to make usable (not like translators on the market :) ) translator for keyboard and mouse which uses ps2 interface to connect them to new PC's which have only usb ports. 
+
 Source code is available here: <http://github.com/robszy/ps2usb>
 
 
