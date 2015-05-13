@@ -12,7 +12,7 @@ Features
 
 * Full featured keyboard with system keys and 3 button mouse supported
 * Suspend and wakeup from system keys on keyboard
-* Debug key errors capability
+* Debug key errors capability through reports over RS232
 * Nice diode flashing effect in sleep mode
 
 Licencse
